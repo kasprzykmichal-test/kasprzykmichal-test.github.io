@@ -152,3 +152,18 @@ button:hover{
   background-color: #ed2f48 !important;
   color: #f8f9fa !important;
 }
+
+p {
+    font-size: smaller;
+}
+
+ul ul {
+    font-size: 100%;
+}
+
+.alert {
+    color: #ED2F48 !important;
+    background-color: #f7f7f7 !important;
+    border-color: #f7f7f7 !important;
+    border-left: 4px #Ed2F48 solid !important;
+}
